@@ -1,0 +1,24 @@
+2026-01-27 21:52:32,872 - ChatServer - INFO - Starting Encrypted Dual-Stack Chat Server
+2026-01-27 21:52:32,872 - ChatServer - INFO - ============================================================
+2026-01-27 21:52:32,886 - ChatServer - INFO - Loaded SSL certificates from certs
+2026-01-27 21:52:32,887 - ChatServer - WARNING - Failed to bind IPv4 socket: [Errno 48] Address already in use
+2026-01-27 21:52:32,887 - ChatServer - WARNING - Failed to bind IPv6 socket: [Errno 48] Address already in use
+2026-01-27 21:52:32,887 - ChatServer - ERROR - Failed to bind to any address. Exiting.
+2026-01-27 21:52:32,887 - ChatServer - INFO - Stopping server...
+2026-01-27 21:52:32,887 - ChatServer - INFO - Server stopped
+2026-01-27 21:53:33,231 - ChatServer - INFO - Starting Encrypted Dual-Stack Chat Server
+2026-01-27 21:53:33,231 - ChatServer - INFO - ============================================================
+2026-01-27 21:53:33,247 - ChatServer - INFO - Loaded SSL certificates from certs
+2026-01-27 21:53:33,247 - ChatServer - WARNING - Failed to bind IPv4 socket: [Errno 48] Address already in use
+2026-01-27 21:53:33,248 - ChatServer - WARNING - Failed to bind IPv6 socket: [Errno 48] Address already in use
+2026-01-27 21:53:33,248 - ChatServer - ERROR - Failed to bind to any address. Exiting.
+2026-01-27 21:53:33,248 - ChatServer - INFO - Stopping server...
+2026-01-27 21:53:33,248 - ChatServer - INFO - Server stopped
+2026-01-27 21:54:14,534 - ChatServer - INFO - Starting Encrypted Dual-Stack Chat Server
+2026-01-27 21:54:14,535 - ChatServer - INFO - ============================================================
+2026-01-27 21:54:14,554 - ChatServer - INFO - Loaded SSL certificates from certs
+2026-01-27 21:54:14,554 - ChatServer - WARNING - Failed to bind IPv4 socket: [Errno 48] Address already in use
+2026-01-27 21:54:14,554 - ChatServer - WARNING - Failed to bind IPv6 socket: [Errno 48] Address already in use
+2026-01-27 21:54:14,554 - ChatServer - ERROR - Failed to bind to any address. Exiting.
+2026-01-27 21:54:14,554 - ChatServer - INFO - Stopping server...
+2026-01-27 21:54:14,555 - ChatServer - INFO - Server stopped
